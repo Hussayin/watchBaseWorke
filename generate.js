@@ -3,7 +3,8 @@ const path = require("path");
 
 // Kataloglar ro'yxati
 const directories = [
-"./watches"
+"./watches",
+"./radoWatches"
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
