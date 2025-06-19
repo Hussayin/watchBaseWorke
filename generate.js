@@ -5,7 +5,8 @@ const path = require("path");
 const directories = [
 "./watches",
 "./radoWatches",
-"./buwatchs"
+"./buwatchs",
+"./casioWatches"
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
