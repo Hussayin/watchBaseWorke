@@ -7,7 +7,8 @@ const directories = [
 "./radoWatches",
 "./buwatchs",
 "./casioWatches",
-"./rolexOthers"
+"./rolexOthers",
+"./montblanc"
 ]; // Kataloglarni qo'shing
 
 // Natijani yozish uchun HTML fayl
